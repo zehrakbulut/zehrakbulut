@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 <h1 align="center">Hi There! I'm Zehra Akbulut</h1>
 <h3 align="center">
@@ -25,9 +22,3 @@
 </h3>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
-Here are some ideas to get you started:
-
-
-⚡😄 ⚡ 
- 
