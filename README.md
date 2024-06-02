@@ -16,7 +16,7 @@
 
 ### Contact & Social
 <h3 align="center">
- <a href="https://www.linkedin.com/in/zehra-akbulut/">
+ <a href="https://www.linkedin.com/in/zehra-akbulut-5089231b9/">
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </a>
 </h3>
