@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Hakkımda
 
-<img align="right" height="150" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
+<img align="right" height="150" width="220" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF">
 
 - 🎓 Yazılım Mühendisliği mezunuyum
 - ⚡ .NET Core ekosisteminde backend geliştirme üzerine çalışıyorum  
@@ -41,9 +41,7 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zehrakbulut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zehrakbulut&theme=tokyonight&hide_border=true" />
-  
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=zehrakbulut&theme=tokyo-night&hide_border=true" />
-</div>
+  </div>
 
 ---
 
