@@ -21,7 +21,7 @@
 ## 🔧 Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,mssql,jwt,html,css,bootstrap,github,git,docker,postman,vscode,visualstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,html,css,bootstrap,github,git,docker,postman,vscode,visualstudio&theme=light" />
 </div>
 
 ---
