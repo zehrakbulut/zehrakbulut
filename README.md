@@ -41,6 +41,9 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zehrakbulut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zehrakbulut&theme=tokyonight&hide_border=true" />
+
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=zehrakbulut&theme=tokyo-night&hide_border=true" />
+
   </div>
 
 ---
