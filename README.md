@@ -10,10 +10,9 @@
 
 <img align="right" height="150" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
 
-- 🎓 Yazılım Mühendisliği mezunuyum (**Malatya Turgut Özal Üniversitesi**)  
+- 🎓 Yazılım Mühendisliği mezunuyum
 - ⚡ .NET Core ekosisteminde backend geliştirme üzerine çalışıyorum  
 - 🏗 Clean Architecture, CQRS, MediatR, Repository Pattern gibi modern yaklaşımlara odaklanıyorum  
-- 🚀 Hedefim: Senior seviyeye ulaşıp, güçlü yazılım mimarileri kurmak  
 
 <br clear="both"/>
 
@@ -22,7 +21,7 @@
 ## 🔧 Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,mysql,html,css,bootstrap,github,git,docker,postman,vscode,visualstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,mssql,jwt,html,css,bootstrap,github,git,docker,postman,vscode,visualstudio&theme=light" />
 </div>
 
 ---
@@ -57,6 +56,11 @@
 </div>
 
 ---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=zehrakbulut&label=Profile%20Views&color=0e75b6&style=flat" alt="zehrakbulut" /> 
+</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=120&section=footer" />
